@@ -1,6 +1,6 @@
 # app_aprenda_ingles
 
-Aplicativo Flutter para apredendizado de inglês básico para crianças.
+Aplicativo Flutter para aprendizado de inglês básico para crianças.
 
 ## Getting Started
 
